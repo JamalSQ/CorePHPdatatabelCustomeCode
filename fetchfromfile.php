@@ -47,10 +47,10 @@ $connection->close();
     <div id="searchResults"></div>
 
     <nav aria-label="Page navigation example">
-  <ul class="pagination m-4" id="pagination-controls">
- 
-  </ul>
-</nav>
+        <ul class="pagination m-4" id="pagination-controls">
+        
+        </ul>
+    </nav>
 
     <table class="table table-bordered mt-4" id="myTable">
         <thead>
